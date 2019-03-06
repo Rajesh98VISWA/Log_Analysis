@@ -33,7 +33,7 @@ A Reporting page that prints out reports in a plain text format based on the dat
 
 In this project consists for following files:
 
-* news.py - It is a main file to run Logs Analysis Reporting Tool
+* postgre.py - It is a main file to run Logs Analysis Reporting Tool
 
 * output.txt - It is a output file that will shown on the git bash
 
@@ -99,19 +99,35 @@ $ psql -d news -f newsdata.sql
 8. Run newsdata.py using:
 
 ```
-$ python news.py
+$ python postgre.py
 ```
 Note: queries will take sometime to execute
 
 ### Run [Execution] :
   1. From the vagrant directory inside the virtual machine,run news.py using:
   ```
-    $ python3 news.py
+    $ python3 postgre.py
   ```
 
-## Varied Proficiency
+## output will be like this
 
-This README document is based on a template suggested by PhilipCoach in this Udacity from [post](https://discussions.udacity.com/t/readme-files-in-project-1/23524).
+###Popular Articles
 
+Candidate is jerk, alleges rival - 338647 views
+Bears love berries, alleges bear - 253801 views
+Bad things gone, say good people - 170098 views
+
+
+###Popular Authors
+
+Anonymous Contributor - 1185706 views
+Markoff Chaney - 1185706 views
+Ursula La Multa - 1185706 views
+Rudolf von Treppenwitz - 1185706 views
+
+
+###Days in Which More Than One Percent Error
+
+July 17, 2016-2.3% errors
 
 
