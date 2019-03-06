@@ -111,14 +111,14 @@ Note: queries will take sometime to execute
 
 ## output will be like this
 
-###Popular Articles
+### Popular Articles
 
 Candidate is jerk, alleges rival - 338647 views
 Bears love berries, alleges bear - 253801 views
 Bad things gone, say good people - 170098 views
 
 
-###Popular Authors
+### Popular Authors
 
 Anonymous Contributor - 1185706 views
 Markoff Chaney - 1185706 views
@@ -126,7 +126,7 @@ Ursula La Multa - 1185706 views
 Rudolf von Treppenwitz - 1185706 views
 
 
-###Days in Which More Than One Percent Error
+### Days in Which More Than One Percent Error
 
 July 17, 2016-2.3% errors
 
